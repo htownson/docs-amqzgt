@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-xykr3p.bokupaybymobile.com/sitemap.xml
